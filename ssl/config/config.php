@@ -1,7 +1,7 @@
 <?php
 
 if (!defined('PROJECT_PATH')) {
-    define('PROJECT_PATH', 'http://localhost:8080/mizan/php/project/ecommerce/'); // replace this value with your project path
+    define('PROJECT_PATH', 'http://localhost:8080/mizan/php/project/php-ecommerce/'); // replace this value with your project path
 }
 
 if (!defined('IS_SANDBOX')) {
